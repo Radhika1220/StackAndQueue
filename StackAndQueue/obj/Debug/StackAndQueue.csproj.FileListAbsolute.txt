@@ -1,0 +1,7 @@
+C:\Users\Radhika\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+C:\Users\Radhika\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+C:\Users\Radhika\source\repos\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+C:\Users\Radhika\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.AssemblyReference.cache
+C:\Users\Radhika\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\Radhika\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.exe
+C:\Users\Radhika\source\repos\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.pdb
