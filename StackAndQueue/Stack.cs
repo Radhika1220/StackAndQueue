@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace StackAndQueue
 {
-    //UC1-Push Operation 
+    /// <summary>
+    /// UC1-Push operation
+    /// UC2-Peek and Pop operation
+    /// </summary>
     class Stack
     {
         //Creating node a top
@@ -51,6 +54,7 @@ namespace StackAndQueue
                 Pop();
             }
         }
+        //dispalying the nodes
         public void Display()
         {
             Node temp = this.top;

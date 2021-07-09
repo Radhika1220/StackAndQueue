@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace StackAndQueue
 {
+    /// <summary>
+    /// UC3-Enqueue Operation
+    /// UC4-Dequeue Operation
+    /// </summary>
     class Queue
     {
         Node head;
+        //Insert the element in rear end
         public void Enqueue(int item)
         {
             Node new_node = new Node(item);
@@ -27,7 +32,18 @@ namespace StackAndQueue
             }
             Console.WriteLine("Inserted into queue : " + new_node.data);
         }
-
+        //delete the element in front end
+        public void Dequeue()
+        {
+            if(this.head==null)
+            {
+                Console.WriteLine("Queue is empty");
+            }
+            Node temp = this.head;
+            this.head = this.head.next;
+            Console.WriteLine("\nItem deleted is {0}", temp.data);
+        }
+        //Displaying the nodes.
         public void Display()
         {
             Node temp = this.head;

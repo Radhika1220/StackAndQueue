@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace StackAndQueue
 {
+    //Node definition for linked list(data,next)
     class Node
     {
         public int data;
